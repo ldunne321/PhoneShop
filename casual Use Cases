@@ -33,4 +33,19 @@ Phone Spec Promotion-
 Customer see's a shared facebook post of PhoneSpec Promotion. Customer gets promotion code from Social Media Site.
 Customer goes online to use promotion code to earn a discount.
 
+Online use case
+The requestor will have to find the website for Phone Spec. The requestor will need an internet connection and a device.
+The requestor uses a search engine to find the Phone Spec website. Once found the requestor clicks the website link and loads up the site.
+The requestor has a variety of options upon loading the site. The requestor can customize a phone of their choice by clicking radio buttons
+that will add and remove parts onto a phone. The requestor will see an image that changes depending on what radio buttons they click.
+The requestor can click add to cart at any stage however validation may prevent the user from adding an incomplete phone. Once 
+the requestor clicks add to cart. The assembled phone's price is added up and saved temporarilly in the cart page. The requestor can go 
+back to the create more phones and add them to the cart.
+Once the requestor clicks buy in the cart page. They are prompted to create an account or sign in To. The requestor can also just pay 
+without creating an account. The user enter's there name ,email, password ,address and age. The user can click sign up and will receive
+a confirmation email. The requestor will then be brought to a payment form. Here the requestor will enter the name of the card holder, 
+the type of card, the card code and expiry date. The requestor can then click confirm purchase. The system will validate the details. 
+The requestor will be brought to a page with a receipt generated that diaplays the delivery address and purchase information. The user can
+contact customer services if the order is wrong by phone or by clicking on a available link. 
+
 
