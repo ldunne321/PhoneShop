@@ -33,7 +33,7 @@ Phone Spec Promotion-
 Customer see's a shared facebook post of PhoneSpec Promotion. Customer gets promotion code from Social Media Site.
 Customer goes online to use promotion code to earn a discount.
 
-Online use case
+Build a phone online use case
 The requestor will have to find the website for Phone Spec. The requestor will need an internet connection and a device.
 The requestor uses a search engine to find the Phone Spec website. Once found the requestor clicks the website link and loads up the site.
 The requestor has a variety of options upon loading the site. The requestor can customize a phone of their choice by clicking radio buttons
@@ -48,11 +48,21 @@ the type of card, the card code and expiry date. The requestor can then click co
 The requestor will be brought to a page with a receipt generated that diaplays the delivery address and purchase information. The user can
 contact customer services if the order is wrong by phone or by clicking on a available link. 
 
-Subscription-
-Customer is jealous of all his friends getting the latest deals without him hearing about them till its too late. 
-Customer decides to subscribe to PhoneSpecs sms subscription service. Customer logs onto his account. Customer ticks a selection box
-to ensure his number is added to get all latest updates. Every week the customer is notified by sms of all the latest deals in Phone Spec.
+Build a phone in shop use case
+A customer finds a Phone Spec shop. The customer looks around the shop. The customer has a price they are willing to spend in his/her 
+head. The customer picks out the required parts. A member of staff is approched by the customer. The customer ask's to have these parts
+assembled. The staff member ensures that the parts are compatible. The staff member leaves and assembles the parts. The customer waits.
+Staff member packages the phone and tells the customer the price. The customer pays for the phone and receives a receipt. The customer
+leaves the shop.
 
+Customer Service Phone
+The customer picks up the phone. The phone needs to be connected to a mobile network and have the required credit or plan to make a call.
+The customer rings customer services. The customer is either greeted with waiting music or by a member of customer services. The calls 
+assistent answers. The customer tells the calls assistent what the problem is. The assitent goes through a handbook of solutions to 
+common problems. The assitent comes up with a solution. The assitent presents the solution to the customer. The customer trys 
+the solution. The solution may not work for the customer. The customerwill request a new solution. The assistent will either put
+the customer on hold or reconnect her to a more experienced staff member. The new assistent provides a new solution. The solution works
+for the customer. The customer hangs up.
 
 
 
