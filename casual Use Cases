@@ -19,6 +19,25 @@ Store Locator Use Case
 Ronaldo does alot of travelling. Ronaldo likes to keep his phone updated with the latest apps but does not know 
 where the nearest store to him is located 
 
+Review Use Case Casual
+Buyer purchases mobile phones online and would like to review them. Buyer sends the review to the Seller, Seller validates the review, completes
+Buyers request for submission, and posts it up online
+
+Replace/Refund Use Case Casual
+Buyer is not happy with items purchased online and sends the seller a refund request. Buyer contacts Seller and the Seller reviews the warranty/receipts 
+ of the item so they are valid. Seller contacts Buyer if warranty is valid and offers Buyer a refund/exchange.
+ Seller contacts Buyer if warranty is valid and offers Buyer a refund/exchange. The Seller then completes the request
+ and delivers the new refunded items to Buyer.
+ 
+ Online Forum Use Case Casual
+ Buyer(s) initiates a request and sends it to other buyers. Buyer(s) post feedback about items brought
+ online, and the Seller also offers an insight into the product. The Buyer goes with the best feedback available
+ 
+ Store Locator Use Case Casual
+ Buyer checks local surroundings for closest store. The Seller finds the nearest location for Buyer and completes request and sends reply
+ back to Buyer.
+ 
+
 Phone Delivery-
 The Buyer has just bought a phone online. The Buyer chooses delivery type of courier delivery. The Buyer has to book the next day off work as he
 wants to be at home to play with his brand new phone. The Buyer is up early the next morning. Courier arrives at his house at 9 o clock.
